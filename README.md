@@ -21,6 +21,6 @@ Data Visualization: Graphs and charts to provide a clear picture of stock levels
 ![Dashboard](screenshots/dashboard.png)
 
 ### Adding Data
-![Adding new Data in Real Time](screenshots/add data.png)
+![Adding new Data in Real Time](screenshots/adddata.png)
 
 ---
