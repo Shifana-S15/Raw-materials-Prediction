@@ -13,3 +13,14 @@ Technology Stack
 Frontend: PyQt5 for a user-friendly and interactive interface.
 Backend: Python with Machine Learning algorithms for prediction.
 Data Visualization: Graphs and charts to provide a clear picture of stock levels and trends
+
+---
+## 🖼️ Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Adding Data
+![Adding new Data in Real Time](screenshots/add data.png)
+
+---
